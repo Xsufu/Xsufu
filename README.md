@@ -11,19 +11,26 @@
   <a href=www.linkedin.com/in/ivan-gorshkov-nsk" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  
   <a href="https://t.me/Macarrao_dev" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
 
 ---
-## 💻 Технологии:
+## 💪 Навыки:
 ![Kotlin](https://img.shields.io/badge/Kotlin-323330?style=for-the-badge&logo=kotlin)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-dceafe?style=for-the-badge)
+![Retrofit](https://img.shields.io/badge/Retrofit-000?style=for-the-badge)
+![Room](https://img.shields.io/badge/Room-444900?style=for-the-badge)
+![Gagger 2](https://img.shields.io/badge/🗡️Dagger_2-4d1515?style=for-the-badge)
+![Cicerone](https://img.shields.io/badge/Cicerone-154d4d?style=for-the-badge)
+![Coroutines](https://img.shields.io/badge/Coroutines-050049?style=for-the-badge)
+![MVVM](https://img.shields.io/badge/MVVM-1f4834?style=for-the-badge)
 
 ---
 
-## 🛠 Инструменты:
+## ⚒️ Инструменты:
 <img alt="github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
 <img alt="figma" src="https://img.shields.io/badge/Figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white" />&nbsp;
 <img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-000000.svg?&style=for-the-badge&logo=Android-Studio&logoColor=4faf53" />&nbsp;
@@ -32,9 +39,9 @@
 
 ### 👨‍💻 Обо мне:
 <font size="4">
-В 2019 я поступил на направление "Информационные системы и технологии" в Сибирский Государственный Университет Водного Транспорта. Там я познакомился со многими сферами разработки и подходами к проектированию и разработке приложений. В 2023 получил степень бакалавра и поступил в магистратуру на то же направление. <br> <br>
+В 2019 я поступил на направление "Информационные системы и технологии" в Сибирский Государственный Университет Водного Транспорта. В ВУЗе я познакомился со многими сферами разработки и подходами к проектированию и разработке приложений. В 2023 получил степень бакалавра и поступил в магистратуру на то же направление. <br> <br>
 
-Android разработкой я заинтересовался в 2021 году во время прохождения производственной практики в одной из компаний города. Прошёл курс от Google - "Android Basics With Kotlin". После чего занимался самообразованием по книгам, видео и статьям. 
+Android разработкой я заинтересовался в 2022 году во время прохождения производственной практики в одной из компаний города. Прошёл курс от Google - "Android Basics With Kotlin". После чего занимался самообразованием по книгам, видео и статьям. 
 </font><br>
 
 ---
